@@ -12,3 +12,4 @@ yangayng
 yangyang
 
 - function-b
+- function-c
